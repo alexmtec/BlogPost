@@ -13,5 +13,6 @@ Un blog increíble para el [curso de Git y Git Hub](https://platzi.com/clases/gi
 - Las personalidades múltiples de Freddy
 - Creado por Alejandro Martínez Tec
 - Incluye muchos ejemplos
+- Disponible para todos
 
 Y como un amable recordatorio: **Este readme.md es un chiste. **Diseñado para el ejemplo.
