@@ -11,5 +11,6 @@ Un blog increíble para el [curso de Git y Git Hub](https://platzi.com/clases/gi
 - El verdadero amor por las buenas prácticas
 - Trucos muy locos del profesor
 - Las personalidades múltiples de Freddy
+- Creado por Alejandro Martínez Tec
 
 Y como un amable recordatorio: **Este readme.md es un chiste. **Diseñado para el ejemplo.
